@@ -1,6 +1,8 @@
 # 🔮 로스트아크 마켓 오라클 (LMO)
 
-> **비정형 패치노트를 딥러닝 언어 모델(LLM)로 정량화하여 MMORPG 아이템 경제 시가 변동 방향성을 에측하는 Neural-Symbolic AI 시스템**
+> **비정형 패치노트를 딥러닝 언어 모델(LLM)로 정량화하여 MMORPG 아이템 경제 시가 변동 방향성을 예측하는 Neural-Symbolic AI 시스템**
+
+![LMO Dashboard 시연 영상](docs/lmo_demo.webp)
 
 ---
 
