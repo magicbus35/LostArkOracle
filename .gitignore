@@ -1,0 +1,33 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Large Data
+data/lostark_features.csv
+data/lostark_market_data_all.csv
+data/고해상도_*.csv
+# data/models/*.json
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary Files
+*.log
+tmp/
