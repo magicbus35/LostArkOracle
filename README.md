@@ -44,7 +44,7 @@ C:\LMO\
 ├── 📁 models/                # 훈련이 완료된 XGBoost 인스턴스 피클(.pkl) 파일 보관
 │
 ├── 📁 docs/                  # 기술 및 포트폴리오 문서 모음
-│   ├── LMO(Lost Ark Market Oracle) 프로젝트.pptx  # 최종 PPT 포트폴리오
+│   ├── LMO(Lost Ark Market Oracle) 프로젝트.ppt  # 최종 PPT 포트폴리오
 │   ├── ARCHITECTURE.md       # 세부 아키텍처 및 다이어그램 설계도
 │   ├── PROJECT_LOG_KR.md     # 전체 프로젝트 진행 및 디버깅 일지 (Dashboard 연동)
 │   ├── mechanisms.md         # LLM을 통제하는 게임 경제학적 명제(Knowledge-Base)
